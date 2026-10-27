@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+  <title>HydroSite</title>
+  <defs>
+    <linearGradient id="hydro" x1="7" y1="3" x2="42" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22b9cb"/>
+      <stop offset="1" stop-color="#075985"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="46" height="46" rx="14" fill="url(#hydro)"/>
+  <rect x="1.5" y="1.5" width="45" height="45" rx="13.5" stroke="white" stroke-opacity=".22"/>
+  <g transform="translate(8 7) scale(1.3333)" stroke="white" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 2.5C9.4 5.7 4.5 10.2 4.5 14.1a7.5 7.5 0 0 0 15 0C19.5 10.2 14.6 5.7 12 2.5Z" fill="white" fill-opacity=".13"/>
+    <path d="M5 14.1c2.4-2.1 4.5-2.1 7 .2s4.6 2.3 7 .2M7.3 18c1.6-.7 3-.3 4.7.8"/>
+  </g>
+</svg>
